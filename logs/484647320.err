@@ -1,0 +1,2 @@
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: get_exit_code task 0 died by signal

@@ -1,0 +1,3 @@
+grep: /home/mspencer/data/autism/genotype/raw_genotypes/Omni2.5/13723.mo_5719866025_R03C01_Omni2.5_FinalReport.txt: Bad address
+/var/spool/slurmd/job4846498/slurm_script: line 10:  6604 Killed                  ./gen_rs_table.sh $SLURM_ARRAY_TASK_ID
+slurmstepd: error: Exceeded step memory limit at some point.

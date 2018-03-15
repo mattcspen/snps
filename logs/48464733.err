@@ -1,0 +1,2 @@
+slurmstepd: error: *** JOB 4846476 ON lewis4-r630-hpc4rc-node365 CANCELLED AT 2018-03-12T15:51:13 DUE TO TIME LIMIT ***
+slurmstepd: error: Exceeded step memory limit at some point.
